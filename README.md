@@ -2,6 +2,10 @@
 
 Welcome to the Check Your Password Strength project! This Streamlit application is designed to help users evaluate the strength level of their passwords. The application utilizes a machine learning model with three classes to predict low, medium, and high strength passwords. Here's a quick overview of the project:
 
+## Screenshots
+![Alt text](static\Screenshot (28).png)
+![Alt text](static\Screenshot (29).png)
+
 ## Project Overview
 
 - **Objective:** Evaluate the strength level of passwords using a machine learning model.
@@ -42,4 +46,3 @@ We welcome contributions! If you have suggestions or improvements, feel free to 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
